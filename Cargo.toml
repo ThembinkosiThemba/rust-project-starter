@@ -4,9 +4,14 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-mongodb = "2.1"
-bson = { version = "2", features = ["chrono-0_4"] }
-tokio = "1"
-chrono = "0.4" # Used for setting DateTimes
-serde = "1" # Used in the Map Data into Structs section"
-postgres = "0.19"
+axum = "0.7.2"
+chrono = { version = "0.4.24", features = ["serde"] }
+dotenv = "0.15.0"
+futures = { version = "0.3.28", default-features = false, features = ["async-await"] }
+mongodb = { version = "2.5.0", features = ["bson-chrono-0_4"] }
+serde = { version = "1.0.160", features = ["derive"] }
+serde_json = "1.0.96"
+thiserror = "1.0.40"
+tokio = { version = "1.27.0", features = ["full"] }
+tower-http = { version = "0.5.0", features = ["cors"] }
+postgres = "0.19.4"

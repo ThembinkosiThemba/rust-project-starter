@@ -24,7 +24,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 TODO
 
-- [ ] Implement CRUD operations for User entity
 - [ ] Add SurrealDB support
 - [ ] Add PostgreSQL support
 - [ ] Add SQL database support
