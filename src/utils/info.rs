@@ -12,6 +12,7 @@ pub fn info() {
  │ ✅ Develop Modular and Extensible Codebase                             │
  │ ✅ Implement CRUD Operations                                           │
  │ ✅ Add PostgreSQL Support (Still to implement repo functions)          │
+ │ ✅  Add Docker Support                                                 │
  └────────────────────────────────────────────────────────────────────────┘
 
  📋 TODO:
@@ -20,7 +21,6 @@ pub fn info() {
  │ ⬜ Add SurrealDB Support                                               │
  │ ⬜ Add SQL Database Support                                            │
  │ ⬜ Implement Authentication System                                     │
- │ ⬜ Add Docker Support                                                  │
  │ ⬜ Implement Event Tracking                                            │
  └────────────────────────────────────────────────────────────────────────┘
 

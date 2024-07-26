@@ -28,7 +28,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Add PostgreSQL support
 - [ ] Add SQL database support
 - [ ] Implement authentication system
-- [ ] Add Docker support
 - [ ] Implement event tracking
 
 ## 📄 License
