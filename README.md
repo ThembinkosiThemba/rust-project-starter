@@ -2,7 +2,7 @@
 
 Welcome to the Rust Project Starter Kit! 🎉 This repository contains starter code for a Rust project, following best practices. It simplifies the process of setting up a new project from scratch, allowing you to focus on building your application's core functionality.
 
-<!-- In this setup, we use the `User` entity as an example, but you can easily replicate and add new entities as required for your specific project needs. -->
+In this setup, we use the `User` entity as an example, but you can easily replicate and add new entities as required for your specific project needs.
 
 ## 🌟 Current Features
 
@@ -25,7 +25,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 TODO
 
 - [ ] Add SurrealDB support
-- [ ] Add PostgreSQL support
+- [ ] Add PostgreSQL methods
 - [ ] Add SQL database support
 - [ ] Implement authentication system
 - [ ] Implement event tracking
